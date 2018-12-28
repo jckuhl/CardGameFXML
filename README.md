@@ -9,7 +9,7 @@ Card Game FXML is a Java framework for building card games in Java
 - Unzip to a desired location and then go to Project Settings -> Global Libraries and import the /lib folder
 - Go to Run/Debug configurations and insert the following into the VM Options, where <PATH> is your path to where you unzipped the SDK
 
-    --module-path <PATH>/javafx-sdk-11/lib --add-modules=javafx.controls,javafx.fxml
+    --module-path ADD_YOUR_PATH/javafx-sdk-11/lib --add-modules=javafx.controls,javafx.fxml
     
 - Run the file
 
